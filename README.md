@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Shehab Said</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/Shehab1001](https://github.com/Shehab1001)
 
 - 📫 How to reach me **Shehab.eldin.said1@gmail.com**
 
