@@ -8,10 +8,6 @@
 <a href="https://stackoverflow.com/users/17186563" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17186563" height="30" width="40" /></a>
 <a href="https://fb.com/shehabelddin.said.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shehabelddin.said.3" height="30" width="40" /></a>
 <a href="https://instagram.com/shehab.afify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehab.afify" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shehab1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shehab1" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shehab_eldin_sa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shehab_eldin_sa1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shehab001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shehab001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shehab1001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shehab1001" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/P8UqnJqr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/P8UqnJqr" height="30" width="40" /></a>
 </p>
 
