@@ -10,6 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shehab1001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shehab1001&icon=0&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shehab1001&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
