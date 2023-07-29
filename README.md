@@ -39,8 +39,13 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 ![shell](https://img.shields.io/badge/-shell%20-05122A?style=flat&logo=shell)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=shehab1001&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=shehab1001&style=for-the-badge">
-</a>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shehab1001&theme=dark&show_icons=true&locale=en&layout=compact" alt="shehab1001" /></p>
+ 
+
+
+  
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shehab1001&theme=dark&show_icons=true&locale=en" alt="shehab1001" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shehab1001&theme=dark" alt="shehab1001" /></p>
