@@ -39,12 +39,8 @@
 ![C++](https://img.shields.io/badge/-C++%20-05122A?style=flat&logo=C++)&nbsp;
 ![shell](https://img.shields.io/badge/-shell%20-05122A?style=flat&logo=shell)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shehab1001&theme=dark&show_icons=true&locale=en&layout=compact" alt="shehab1001" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=shehab1001&theme=dark&show_icons=true&locale=en&layout=compact" alt="shehab1001" /></p> <br>
  
-
-
-  
-  
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shehab1001&theme=dark&show_icons=true&locale=en" alt="shehab1001" /></p>
 
 
