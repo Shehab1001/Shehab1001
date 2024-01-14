@@ -18,4 +18,6 @@
 
 <a href="https://www.linkedin.com/in/shehab-eldin-said-88b185222/" target="_blank"><img src="https://img.shields.io/badge/-Shehab%20Eldin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Shehab1001&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
