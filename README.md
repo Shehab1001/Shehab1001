@@ -7,7 +7,7 @@
 </h1>
 
 
-I'm Shehab from Egypt, and I build websites and APIs. I really enjoy learning languages and frameworks like React and React .NET
+I'm Shehab from Egypt, and I build websites and APIs. I really enjoy learning languages and frameworks like React and .NET
 
 <h2>Skills and Experience</h2>
 <ul>
