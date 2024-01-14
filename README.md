@@ -1,7 +1,6 @@
 
 <img src="https://i.ibb.co/QHhGWZN/Shehab-Said.png" alt="Shehab-Said" border="0">
 
-[![](https://visitcount.itsvg.in/api?id=Shehab1001&icon=0&color=1)](https://visitcount.itsvg.in)
 <h1 align="left">
  Shehab Eldin Said
 </h1>
