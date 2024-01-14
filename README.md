@@ -1,4 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Hello, I'm Shehab
@@ -12,7 +11,7 @@
 
 - 🏢 I'm a Software Developer
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with .Net, JavaScript, and NodeJS, or anything related to web development.
+- 💬 Ask me about React, ASP.Net, JavaScript, and NodeJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a خربوش of tea.
 
 ### Connect with Me :
