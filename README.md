@@ -10,8 +10,10 @@
 I'm Shehab from Egypt, and I build websites and APIs. I really enjoy learning languages and frameworks like React and React Native.
 
 <h2>Skills and Experience</h2>
-<li>💻 HTML, CSS, JS</li>
-<li>⚛ React</li>
+<ul>
+ <li>💻 HTML, CSS, JS</li>
+ <li>⚛ React</li> 
+</ul>
 
 ### Connect with Me :
 
