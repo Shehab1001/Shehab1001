@@ -21,6 +21,3 @@ I'm Shehab from Egypt, I build websites and APIs. I really enjoy learning langua
 </p>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shehab1001&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
