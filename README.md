@@ -10,7 +10,7 @@ I'm Shehab from Egypt, I build websites and APIs. I really enjoy learning langua
 
 <h2>Skills and Experience</h2>
 <ul>
- <li>💻 HTML, CSS, JS</li>
+ <li>💻 HTML, CSS, JS, Jquery, Bootstrap, Tailwind</li>
  <li>⚛ React</li> 
  <li>🌐 ASP.NET</li>
 </ul>
