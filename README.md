@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shehab  
 
-💻 Odoo Developer
+## 💻 Odoo Developer
 
 I build reliable and scalable systems that solve real problems.  
 Experienced in **Odoo development**, building custom modules, real-time features, and working with **PostgreSQL & SQL Server**.  
