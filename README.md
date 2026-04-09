@@ -13,7 +13,7 @@ Experienced in **Odoo development**, building custom modules, real-time features
 - **Backend:** Python, Odoo 
 - **Frontend:** React.js, JavaScript  
 - **Databases:** PostgreSQL, SQL Server  
-- **Tools:** Git, Streamlit  
+- **Tools:** Git, Streamlit, AWS EC2 
 
 ---
 
